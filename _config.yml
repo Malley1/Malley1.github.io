@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Conor O'Malley"
-  avatar           : "files/con_black_and_white.jpeg"
+  avatar           : "images/con_black_and_white.jpeg"
   bio              : "Postdoctoral Research Associate"
   location         : "London"
   employer         :
