@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@malley1"
+  username               : &twitter "Malley1"
 facebook:
   username               :
   app_id                 :
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Conor O'Malley"
+  avatar           : "files/con_black_and_white.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
