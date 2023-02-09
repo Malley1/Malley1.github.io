@@ -13,35 +13,37 @@ Work experience
 ======
 * June 2020-Present: Postdoctoral Research Associate, Imperial College London
   * Department of Earth Science and Engineering
-  * NERC Grant #####, Mantle Convection Constrained
+  * NERC Grant NE/T01684/1 Mantle Convection Constrained
   * Duty 2
 
 * Jan 2020-June 2022: Postdoctoral Research Associate, Imperial College London
   * Department of Earth Science and Engineering
-  * Leverhulme Trust Grant ##### awarded to Dr. Gareth Roberts
+  * Leverhulme Trust Grant RPG-2019-073 awarded to Dr. Gareth Roberts
   * Duty 2
 
 * Sept 2019-Dec 2019: Postdoctoral Research Assistant, University of Cambridge
   * Department of Earth Sciences
-  * Duty 1
-  * Duty 2
+  * Continuing research with Prof. White on closed-loop modeling of African topographic evolution with a focus on the competing influences of tectonics, climate and erodibility. Involving generation of novel techniques. Presenting my work to industrial partners with a range of scientific and other backgrounds.
 
 
 Education
 ======
-* Ph.D in Geophysics, "*Quantitative Analysis of River Profiles and Fluvial Landscapes*", University of Cambridge, 2020
-* M.Sc. in Natural Sciences (Physical), University of Cambridge, 2015
-* B.Sc. in Natural Sciences (Physical), University of Cambridge, 2015
+* Ph.D in Geophysics, "*Quantitative Analysis of River Profiles and Fluvial Landscapes*", Bullard Laboratories, University of Cambridge, 2020. Supervisor: Prof. Nicky White.
+* M.Sc. in Natural Sciences (Physical), University of Cambridge, 2015.
+* B.Sc. in Natural Sciences (Physical), University of Cambridge, 2015.
 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming to solve Earth science and data science problems
+  * Python (numpy, scipy, pandas, matplotlib, Jupyter etc.)
+  * Bash (Unix command line, awk, Generic Mapping Tools)
+  * High-performance cluster computing (PBS, SLURM)
+* Presentation
+  * Oral and poster presentations at international conferences
+  * Publication in major journals with original figures
+* Leadership/collaboration
+  * Co-supervisor on several undergraduate and postgraduate research projects 
 
 Publications
 ======
