@@ -9,24 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2020-Present: Postdoctoral Research Associate, Imperial College London
+  * Department of Earth Science and Engineering
+  * NERC Grant #####, Mantle Convection Constrained
+  * Duty 2
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Jan 2020-June 2022: Postdoctoral Research Associate, Imperial College London
+  * Department of Earth Science and Engineering
+  * Leverhulme Trust Grant ##### awarded to Dr. Gareth Roberts
+  * Duty 2
+
+* Sept 2019-Dec 2019: Postdoctoral Research Assistant, University of Cambridge
+  * Department of Earth Sciences
+  * Duty 1
+  * Duty 2
+
+
+Education
+======
+* Ph.D in Geophysics, "*Quantitative Analysis of River Profiles and Fluvial Landscapes*", University of Cambridge, 2020
+* M.Sc. in Natural Sciences (Physical), University of Cambridge, 2015
+* B.Sc. in Natural Sciences (Physical), University of Cambridge, 2015
+
+
 Skills
 ======
 * Skill 1
@@ -54,6 +61,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: # (Service and leadership)
+[//]: # (======)
+[//]: # (* Currently signed in to 43 different slack teams)
