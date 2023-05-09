@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a a Postdoctoral Research Associate in Geology, Geomorphology and Palaeobiology at Imperial College London.
+I am a Postdoctoral Research Associate in Geology, Geomorphology and Palaeobiology at Imperial College London.
 
 Since July 2022 I have been funded by the NERC grant "Mantle Circulation Constrained" NE/T01684/1. My aim is to constrain large, state-of-the-art foward models of mantle convection run by collaborators at Cardiff University, by generating global spatio-temporal predictions of dynamic topography through Cenozoic times from their outputs. I am currently working on comparing those predictions to evidence for uplift from elevated marine sedimentary rocks, and residual oceanic depths.
 
