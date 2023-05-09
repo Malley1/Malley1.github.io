@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
+I am a a Postdoctoral Research Associate in Geology, Geomorphology and Palaeobiology at Imperial College London.
+
+Since July 2022 I have been funded by the NERC grant "Mantle Circulation Constrained" NE/T01684/1. My aim is to constrain large, state-of-the-art foward models of mantle convection run by collaborators at Cardiff University, by generating global spatio-temporal predictions of dynamic topography through Cenozoic times from their outputs. I am currently working on comparing those predictions to evidence for uplift from elevated marine sedimentary rocks, and residual oceanic depths.
+
+Between January 2020 -- July 2022 I was funded by a Leverhulme Trust grant obtained by Dr. Gareth Roberts. My work used use wavelet power spectra to investigate the relationship between biodiversity and topography, climate and other factors. Our work highlights the relevance of global/continental scale climatic trends to to regional biodiversity. Before that, for my PhD at the University of Cambridge I employed modern geophysical and geomorphological observables to investigate the dynamics and history of landscape and drainage network evolution. I applied custom forward and inverse geophysical models, and wavelet power spectral analysis, to continental- to global-scale datasets. The aim was to tease apart the relative primacy of competing forces which affect landscape evolution. 
+
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
