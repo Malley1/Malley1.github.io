@@ -11,15 +11,13 @@ redirect_from:
 
 Work experience
 ======
-* June 2020-Present: Postdoctoral Research Associate, Imperial College London
+* June 2022-Present: Postdoctoral Research Associate, Imperial College London
   * Department of Earth Science and Engineering
   * NERC Grant NE/T01684/1 Mantle Convection Constrained
-  * Duty 2
 
 * Jan 2020-June 2022: Postdoctoral Research Associate, Imperial College London
   * Department of Earth Science and Engineering
   * Leverhulme Trust Grant RPG-2019-073 awarded to Dr. Gareth Roberts
-  * Duty 2
 
 * Sept 2019-Dec 2019: Postdoctoral Research Assistant, University of Cambridge
   * Department of Earth Sciences
